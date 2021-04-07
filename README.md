@@ -1,5 +1,5 @@
 # TwoWayGWAS
-R code for two-way GWAS to study genomic interaction between rice and Xanthomonas oryzae   
+R code for two-way GWAS to detect genome-genome interactions between rice and Xanthomonas oryzae   
 
 A small sample data are provided to illustrate how two-way GWAS was conducted, including
   (1) genotypes for N1 rice accessions
